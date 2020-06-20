@@ -5,3 +5,5 @@ Despues de tener un pequeño retraso este cubo pasará a mostrar el cubo transfo
 Además con las flechas se puede mover la camará para ver otra perspectivas de las gráficas.
 
 Tener en cuenta que se descargo las librerias de pygame, numpy y OpenGL para crear el algoritmo y se uso en el editor Sublime Text 3 en Windows 10.
+
+Además en el caso de que no se logre ejecutar tambien se le presenta un video de la ejecución de la presente pregunta, ignore la música que viene de mi reproductor.
