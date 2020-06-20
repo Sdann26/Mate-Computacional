@@ -37,9 +37,9 @@ edges = (
 
 def draw_axis():
         glEnableClientState(GL_VERTEX_ARRAY)
-        glVertexPointer(3, GL_FLOAT, 0, np.array([5, 0, 0, 0, 0, 0,
-                                                  0, 5, 0, 0, 0, 0,
-                                                  0, 0, 5, 0, 0, 0,
+        glVertexPointer(3, GL_FLOAT, 0, np.array([10, 0, 0, 0, 0, 0,
+                                                  0, 10, 0, 0, 0, 0,
+                                                  0, 0, 10, 0, 0, 0,
                                                   ]))
         glEnableClientState(GL_COLOR_ARRAY)
         glColorPointer(3, GL_FLOAT, 0,  np.array([1, 0, 0, 1, 1, 1,
